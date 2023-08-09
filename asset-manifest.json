@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kfcfood/static/css/main.0f189eac.css",
+    "main.js": "/kfcfood/static/js/main.1ab96f19.js",
+    "static/js/787.28cb0dcd.chunk.js": "/kfcfood/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/kfcfood/index.html",
+    "main.0f189eac.css.map": "/kfcfood/static/css/main.0f189eac.css.map",
+    "main.1ab96f19.js.map": "/kfcfood/static/js/main.1ab96f19.js.map",
+    "787.28cb0dcd.chunk.js.map": "/kfcfood/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f189eac.css",
+    "static/js/main.1ab96f19.js"
+  ]
+}
